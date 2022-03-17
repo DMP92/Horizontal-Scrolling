@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;;IAEI,yBAAyB;IACzB,YAAY;AAChB,C","sources":["webpack://webpack-dev-server-friday-test/./src/style.css"],"sourcesContent":["body\n{\n    background-color: #2a2a2e;\n    color: white;\n}"],"names":[],"sourceRoot":""}
